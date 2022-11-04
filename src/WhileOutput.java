@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class WhileOutput {
     /*
      1. 문제 파악
         두 정수 A와 B를 입력받은 다음, A+B를 출력
