@@ -6,3 +6,4 @@
 |사칙연산| 뺄셈 |[java](https://www.acmicpc.net/source/51305694)|[java](https://www.acmicpc.net/source/51305938)| 불기 연도 - 서기 연도 변환 | 2022. 11. 04 |
 |반복문| 합 |[java](https://www.acmicpc.net/source/51308058)|[java]() | 1부터 n까지의 합 | 2022. 11. 04 |
 |사칙연산| 뺄셈 |[java](https://www.acmicpc.net/source/52310523)|[java]()| 체스 말 개수 | 2022. 12. 02
+|함수| 함수 구현 |[java]()|[java](https://www.acmicpc.net/source/52893096)| 정수 N개의 합 | 2022. 12. 21
