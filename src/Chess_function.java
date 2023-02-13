@@ -16,15 +16,15 @@ import java.util.Scanner;
     조절 adjust
  */
 public class Chess_function {
-   public int calculation(int input_king, int input_queen, int input_rook, int input_bishop, int input_knight, int input_pwun) {
-      int output_king = 1 - input_king;
-      int output_queen = 1 - input_queen;
-      int output_rook = 2 - input_rook;
-      int output_bishop = 2 - input_bishop;
-      int output_knight = 2 - input_knight;
-      int output_pwun = 8 - input_pwun;
-      return output_king, output_queen,;
-     }
+   // public int calculation(int input_king, int input_queen, int input_rook, int input_bishop, int input_knight, int input_pwun) {
+   //    int output_king = 1 - input_king;
+   //    int output_queen = 1 - input_queen;
+   //    int output_rook = 2 - input_rook;
+   //    int output_bishop = 2 - input_bishop;
+   //    int output_knight = 2 - input_knight;
+   //    int output_pwun = 8 - input_pwun;
+   //    return output_king, output_queen,;
+   //   }
     public static void main(String[] args) {
         /*
          - 테스트 케이스
@@ -45,12 +45,12 @@ public class Chess_function {
          
 
         // 출력
-        System.out.println(output_king);
-        System.out.println(output_queen);
-        System.out.println(output_rook);
-        System.out.println(output_bishop);
-        System.out.println(output_knight);
-        System.out.println(output_pwun);
+      //   System.out.println(output_king);
+      //   System.out.println(output_queen);
+      //   System.out.println(output_rook);
+      //   System.out.println(output_bishop);
+      //   System.out.println(output_knight);
+      //   System.out.println(output_pwun);
         
         scanner.close();
     }
