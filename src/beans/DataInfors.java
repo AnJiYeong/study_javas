@@ -1,7 +1,7 @@
 package beans;
 
 public class DataInfors {
-    public MemberBean getDataWithMemberBean() {
+    public MemberBean getDataWithMamberBean(){
         MemberBean memberBean = new MemberBean();
         memberBean.setFirstName("Mark");
         memberBean.setSecondName("Otto");
